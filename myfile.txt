@@ -1,0 +1,6 @@
+# How to set auto shutdown of Mac
+
+#!/bin/bash
+
+
+Sudo shutdown -h +90
