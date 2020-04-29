@@ -1,4 +1,4 @@
-# How to set auto shutdown of Mac
+# HAuto shut down after 90 mins
 
 #!/bin/bash
 
