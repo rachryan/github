@@ -1,4 +1,4 @@
-# HAuto shut down after 90 mins
+# Auto shut down after 90 mins
 
 #!/bin/bash
 
